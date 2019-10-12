@@ -4,7 +4,7 @@ from github import Github
 
 path = "/Users/kalle/Documents/Projects/MyProjects/"
 
-username = "" #Insert your github username here
+username = "rahul1116" #Insert your github username here
 password = "" #Insert your github password here
 
 def create():
